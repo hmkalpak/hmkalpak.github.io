@@ -471,7 +471,7 @@ a[data-fancybox] img {
 }
 
 #profile .portrait {
-  background-image: url('../img/portrait.jpg');
+  background-image: url('../img/hk.jpg');
   width: 200px;
   height: 200px;
   margin: 0 auto;
@@ -964,7 +964,7 @@ article .article-metadata {
   position: absolute;
   left: -3.14285714rem; /* Negative of `#contact.home-section .fa-ul` margin. */
   width: 1rem; /* Match `fa-XX` icon size. */
-  top: 1.2em; /* Default FA value. */
+  top: 1.1em; /* Default FA value. */
   text-align: center;
 }
 
@@ -974,7 +974,7 @@ article .article-metadata {
 }
 
 #contact.home-section li:last-of-type {
-  padding-top: 2.7rem; /* Align text with bottom of `fa-2x` icon. */
+  padding-top: -1.3rem; /* Align text with bottom of `fa-2x` icon. */
   margin-bottom: 0em;
 }
 
