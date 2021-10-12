@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Hana Kalpak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Hana Kalpak</copyright>
+    <copyright>&amp;copy; 2021 Hana Kalpak</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
@@ -19,8 +19,20 @@
       
       <guid>/home/about/</guid>
       <description>&amp;nbsp;
-I&amp;rsquo;m a PhD student in philosophy at Stockholm University. I work on semantics, philosophy of language, and formal epistemology. I&amp;rsquo;m especially interested in interrogative semantics and in the relation between beliefs/credences and questions.
-I started as a PhD student in February, 2019. Before this, I obtained a Master&amp;rsquo;s degree in logic from University of Amsterdam in 2018, and a Bachelor&amp;rsquo;s degree in philosophy (with a minor in linguistics) from Stockholm University in 2016.</description>
+I&amp;rsquo;m a PhD candidate in philosophy at Stockholm University, specialized in formal epistemology and semantics. I think and write about rational belief, rational inquiry, and the relation between the two.
+I started as a PhD candidate in February, 2019. Before this, I got a Master&amp;rsquo;s degree in logic from University of Amsterdam in 2018, and a Bachelor&amp;rsquo;s degree in philosophy (with a minor in linguistics) from Stockholm University in 2016.</description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description>Feel free to email me for drafts or discussion.
+Decision rules for imprecise Lockeans I outline some ways to establish a utility-theoretic Lockean thesis connecting our rational beliefs to our rational imprecise credences.
+Relevance and the aim of inquiry I develop a relevance-first theory of rational inquiry, and relate it to accuracy-first theories of rational belief/credence.
+Question-sensitive beliefs and question-sensitive contents In a certain sense, our beliefs are question-sensitive. I reason about how this assumption should (not) affect our semantics of belief reports as well as our general theory of communication.</description>
     </item>
     
     <item>
@@ -38,8 +50,8 @@ I started as a PhD student in February, 2019. Before this, I obtained a Master&a
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/publications/</guid>
-      <description>2020 Factive islands and interrogative logical triviality. PDF Proceedings of Semantics and Linguistic Theory 30.
-The semantics and pragmatics of nouns in concealed questions. PDF Semantics &amp;amp; Pragmatics 13(7).
+      <description>2021 Factive islands and interrogative logical triviality. PDF Proceedings of Semantics and Linguistic Theory 30.
+2020 The semantics and pragmatics of nouns in concealed questions. PDF Semantics &amp;amp; Pragmatics 13(7).
 2019 Sortal versus relational nouns in concealed questions. Proceedings of Chicago Linguistic Society 54. Superseded by The semantics and pragmatics of nouns in concealed questions.
 Inquisitive logical triviality and grammar. PDF MSc thesis, University of Amsterdam. Partially superseded by Unacceptability in Yucatec Maya revisited.</description>
     </item>
@@ -50,11 +62,10 @@ Inquisitive logical triviality and grammar. PDF MSc thesis, University of Amster
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/talks/</guid>
-      <description>Selected. For a complete list, see my CV.
-2021 Relevance and the aim of belief. (Tentative title.) Talk at CLLAM seminar, Stockholm University, May 2021.
+      <description>2021 Decision rules for imprecise Lockeans. Talk at CLLAM seminar, Stockholm University, November 2021.
 2020 Delusions and other question-sensitive beliefs. Handout Talk at fifth PLM workshop on Delusions in language and mind, University of Amsterdam (on-line), October 2020.
 Factive islands and interrogative logical triviality. Slides Talk at SALT 30, Cornell University (on-line), August 2020.
-2019 Sources of meaning-driven unacceptability.</description>
+2019 Sources of meaning-driven unacceptability. Abstract Talk at Principles of Formal Semantics, Stockholm University, September 2019.</description>
     </item>
     
     <item>
@@ -67,22 +78,17 @@ Factive islands and interrogative logical triviality. Slides Talk at SALT 30, Co
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>teaching</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>PRESENT Metod - Argumentation, semantik och formell logik. Ges som del av Teoretisk Filosofi I.
-PREVIOUS See CV.</description>
+      <description>For courses taught as instructor or assistant, see my CV.
+Metod - Argumentation, semantik och formell logik. 2020, 2021. Gavs som del av Teoretisk Filosofi I.
+Slides - Kursdel I
+Argument I Argument II Mängdlära Semantik I Semantik II Semantik III Repetition I
+Slides - Kursdel II
+Satslogik I Satslogik II Satslogik III Predikatlogik I Predikatlogik II Predikatlogik III Repetition II</description>
     </item>
     
     <item>
@@ -100,7 +106,7 @@ PREVIOUS See CV.</description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/contact/</guid>
-      <description></description>
+      <description>For current physical address, see my CV.</description>
     </item>
     
   </channel>
